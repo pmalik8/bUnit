@@ -1,0 +1,2137 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/bUnit/bUnit/docs/site",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": ".nojekyll",
+      "output": {
+        "resource": {
+          "relative_path": ".nojekyll"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "CNAME",
+      "output": {
+        "resource": {
+          "relative_path": "CNAME"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "android-chrome-192x192.png",
+      "output": {
+        "resource": {
+          "relative_path": "android-chrome-192x192.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "android-chrome-256x256.png",
+      "output": {
+        "resource": {
+          "relative_path": "android-chrome-256x256.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Asserting.ActualExpectedAssertException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Asserting.ActualExpectedAssertException.html",
+          "hash": "/jvpyUG227Bb8WAMvEJS4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Asserting.AssertionMethodAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Asserting.AssertionMethodAttribute.html",
+          "hash": "WKmijusyN3NGkHwAQNrxIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Asserting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Asserting.html",
+          "hash": "VGnwhAkQ7T0KFl/ourYxWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.BlazorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.BlazorExtensions.html",
+          "hash": "WPM44CsUsHICfof+RwP/WQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.BunitJSInterop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.BunitJSInterop.html",
+          "hash": "C8TOtKBCFj23hf+DOFnhtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.ClipboardEventDispatchExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.ClipboardEventDispatchExtensions.html",
+          "hash": "O9HWrCuXi5WypPl4l4vAjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.CompareToExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.CompareToExtensions.html",
+          "hash": "C1ufTdlOxmNJrYtN+/DKOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.ComponentParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.ComponentParameter.html",
+          "hash": "Ed6sq+92ozpfk5802A5V5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.ComponentParameterCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.ComponentParameterCollection.html",
+          "hash": "NQICvLS9CHkpSmkxAsHJGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.ComponentParameterCollectionBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.ComponentParameterCollectionBuilder-1.html",
+          "hash": "k70SwzCDbUpwE53fhiBllQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.ComponentParameterFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.ComponentParameterFactory.html",
+          "hash": "8kSWGjl3XeHKtrq/Q2G+yA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.ComponentTestFixture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.ComponentTestFixture.html",
+          "hash": "6s38YiVwETS7OwTvauMkHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.ComponentUnderTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.ComponentUnderTest.html",
+          "hash": "jKuMF+J1qjg3hUBzMO53bg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.DiffAssertExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.DiffAssertExtensions.html",
+          "hash": "Pu8qk3cZtfR6/ZZcOvA8rg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.DiffChangeAssertException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.DiffChangeAssertException.html",
+          "hash": "vBBC5QvM3HSIw+kPPY/pMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Diffing.BlazorDiffingHelpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Diffing.BlazorDiffingHelpers.html",
+          "hash": "fO6sEvMvdIuUx1eGGhHqOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Diffing.DiffMarkupFormatter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Diffing.DiffMarkupFormatter.html",
+          "hash": "vYwgZacuui253F0/voHyNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Diffing.HtmlComparer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Diffing.HtmlComparer.html",
+          "hash": "S/Ue1UYS/8+TEkK01HBt5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Diffing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Diffing.html",
+          "hash": "vSk71tSsez+sydxVP0V3Ng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.DragEventDispatchExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.DragEventDispatchExtensions.html",
+          "hash": "06UnfRM4rbfSCj7uYdjAFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.ElementNotFoundException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.ElementNotFoundException.html",
+          "hash": "sVcm2Lst/9iHH0MmHg9EHQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.ElementRemovedFromDomException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.ElementRemovedFromDomException.html",
+          "hash": "vM8d4I0lqFSaF62uoGQY2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Extensions.EnumerableExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Extensions.EnumerableExtensions.html",
+          "hash": "4G+qSabKyhBYk+g3MEGJEw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Extensions.LoggerHelperExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Extensions.LoggerHelperExtensions.html",
+          "hash": "OlZOApClj8rdObb0j2H67w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Extensions.TestRendererExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Extensions.TestRendererExtensions.html",
+          "hash": "qjvdPA/mzS1nH/9NWUdMJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Extensions.TestServiceProviderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Extensions.TestServiceProviderExtensions.html",
+          "hash": "JukD1zT8NTgGrA6G+pr8WQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Extensions.WaitForHelpers.WaitForAssertionHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Extensions.WaitForHelpers.WaitForAssertionHelper.html",
+          "hash": "2akmFAnySmdFOvQHWRkhwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Extensions.WaitForHelpers.WaitForFailedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Extensions.WaitForHelpers.WaitForFailedException.html",
+          "hash": "z2Ik4PDYL87Gob0B76Z53g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Extensions.WaitForHelpers.WaitForHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Extensions.WaitForHelpers.WaitForHelper.html",
+          "hash": "ns1aZmQBrzjbSwSqEKZ8nw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Extensions.WaitForHelpers.WaitForStateHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Extensions.WaitForHelpers.WaitForStateHelper.html",
+          "hash": "qwYoRCMoS/Bq6kI2L0PeQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Extensions.WaitForHelpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Extensions.WaitForHelpers.html",
+          "hash": "J2ych1Y60MEOZv2+fiE/RQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Extensions.html",
+          "hash": "5krBB0GrqcQ/OazMeSIFrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Fixture.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Fixture.html",
+          "hash": "nD/8XF/RrNVrCvHRu9j1XQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.FocusEventDispatchExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.FocusEventDispatchExtensions.html",
+          "hash": "NbFLxiqYTH441DrWK8aAjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Fragment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Fragment.html",
+          "hash": "ZMwqtTSBbcSCF0re82QBpw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.GeneralEventDispatchExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.GeneralEventDispatchExtensions.html",
+          "hash": "2eDiYSVlfHgYiCsZGGKqcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.HtmlEqualException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.HtmlEqualException.html",
+          "hash": "zVLASzeP9rX4rhLFm+gDmA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.IRefreshableElementCollection-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.IRefreshableElementCollection-1.html",
+          "hash": "zvpIsLoQMfrSgYxcgGhOOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.IRenderedComponent-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.IRenderedComponent-1.html",
+          "hash": "EzjtnJPdv9/v27TBFaWGjA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.IRenderedComponentBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.IRenderedComponentBase-1.html",
+          "hash": "pwkVNWgTuEq4+hA9llNQNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.IRenderedFragment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.IRenderedFragment.html",
+          "hash": "XiQtWTIETyhOkA1YBekzZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.IRenderedFragmentBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.IRenderedFragmentBase.html",
+          "hash": "th4KWrMY/vQ7LtEm6pw6Hw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.InputEventDispatchExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.InputEventDispatchExtensions.html",
+          "hash": "pNNyUeJwYXFJFxoRNukroQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.InvocationMatcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.InvocationMatcher.html",
+          "hash": "tSIGaqGZIfdOmSlyguT6AA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.JSInterop.BunitJSInteropSetupExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.JSInterop.BunitJSInteropSetupExtensions.html",
+          "hash": "84VcIKFjREZsslo4Jbq4JQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.JSInterop.InvocationHandlers.JSRuntimeInvocationHandler-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.JSInterop.InvocationHandlers.JSRuntimeInvocationHandler-1.html",
+          "hash": "PT6oEYBWzY0yYHXH3sOzBA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.JSInterop.InvocationHandlers.JSRuntimeInvocationHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.JSInterop.InvocationHandlers.JSRuntimeInvocationHandler.html",
+          "hash": "xXs/8Ylp6DhB0O0XSLGMGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.JSInterop.InvocationHandlers.JSRuntimeInvocationHandlerBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.JSInterop.InvocationHandlers.JSRuntimeInvocationHandlerBase-1.html",
+          "hash": "4hSWAog0vaBWt2bU0lZr/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.JSInterop.InvocationHandlers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.JSInterop.InvocationHandlers.html",
+          "hash": "MhlPrueMrEoiU3GFJ6vlNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.JSInterop.JSRuntimeInvocationDictionary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.JSInterop.JSRuntimeInvocationDictionary.html",
+          "hash": "qXgRCfOK6H1r7Ws2BjxWTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.JSInterop.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.JSInterop.html",
+          "hash": "kbTVYmqQHArv5izoR7eI+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.JSInvokeCountExpectedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.JSInvokeCountExpectedException.html",
+          "hash": "zxQXyYWJSFxewQAPX34hfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.JSRuntimeAssertExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.JSRuntimeAssertExtensions.html",
+          "hash": "o+w9266ldM10kBG3AS1gPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.JSRuntimeInvocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.JSRuntimeInvocation.html",
+          "hash": "dJPKWXt2WmyR+XyZuCasNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.JSRuntimeMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.JSRuntimeMode.html",
+          "hash": "UyxSWER1aP1JhBxC69hhbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.JSRuntimeUnhandledInvocationException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.JSRuntimeUnhandledInvocationException.html",
+          "hash": "ulYFu3GcXKiv7vqBxq+koA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Key.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Key.html",
+          "hash": "MB9BFAAMXlTf2ff/LYrnWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.KeyboardEventDispatchExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.KeyboardEventDispatchExtensions.html",
+          "hash": "nxHwhjbZylgaHaAhbpMVGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.MarkupMatchesAssertExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.MarkupMatchesAssertExtensions.html",
+          "hash": "xjWfXlFjMkZZTlHvGF/l0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.MediaEventDispatchExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.MediaEventDispatchExtensions.html",
+          "hash": "lzyXxzrzwtbawEgeJz0D3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.MissingEventHandlerException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.MissingEventHandlerException.html",
+          "hash": "l4th9g8Vo3Ytvt+/chcO7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.MockJSRuntimeExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.MockJSRuntimeExtensions.html",
+          "hash": "zilbPYurVKDZcUzo+Tvfig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.MouseEventDispatchExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.MouseEventDispatchExtensions.html",
+          "hash": "nFnRFBiGm3DuVXk1VOk//w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.NodePrintExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.NodePrintExtensions.html",
+          "hash": "SbAJSX9LZ6sW+t66QN6Uwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.PointerEventDispatchExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.PointerEventDispatchExtensions.html",
+          "hash": "AC1xL8EJctitX6DWX7mSag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.ProgressEventDispatchExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.ProgressEventDispatchExtensions.html",
+          "hash": "E/mY/9/wbXQfyTamJgRaKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.RazorTesting.FixtureBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.RazorTesting.FixtureBase-1.html",
+          "hash": "Aa6pSMiKMe8uCcnqYheQYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.RazorTesting.FragmentBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.RazorTesting.FragmentBase.html",
+          "hash": "zxAN0iXM3SAL+AnkcL9z8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.RazorTesting.FragmentContainer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.RazorTesting.FragmentContainer.html",
+          "hash": "ZOtivO7SnD45jO7LTQ/7QA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.RazorTesting.ParameterException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.RazorTesting.ParameterException.html",
+          "hash": "8UU4Mudu1MVVB4xMF6DbmA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.RazorTesting.RazorTestBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.RazorTesting.RazorTestBase.html",
+          "hash": "LbWy0dUgso6eFIIFB1VLqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.RazorTesting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.RazorTesting.html",
+          "hash": "eL2sapvpw2bb40u/Bhv6ZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.RenderedComponentInvokeAsyncExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.RenderedComponentInvokeAsyncExtensions.html",
+          "hash": "csPrs7KHd2y5SUOW8Xw8NA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.RenderedComponentRenderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.RenderedComponentRenderExtensions.html",
+          "hash": "aR5wEpW2A/Gdhqyx607GrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.RenderedFragmentExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.RenderedFragmentExtensions.html",
+          "hash": "FRrWakEisiZQTofvCCDASw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.RenderedFragmentWaitForHelperExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.RenderedFragmentWaitForHelperExtensions.html",
+          "hash": "RJS02Utq/7+u9iBe6KdcsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Rendering.BunitHtmlParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Rendering.BunitHtmlParser.html",
+          "hash": "W6QMJTes+BLvncBbxwwqlg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Rendering.ComponentDisposedException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Rendering.ComponentDisposedException.html",
+          "hash": "r8jVrIHEc+1InXMuKhMZ+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Rendering.ComponentNotFoundException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Rendering.ComponentNotFoundException.html",
+          "hash": "DpfuS0X04o6fAkkRYwg1FA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Rendering.IRenderedComponentActivator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Rendering.IRenderedComponentActivator.html",
+          "hash": "dTRca+isZQ3ThT7baJG9+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Rendering.ITestRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Rendering.ITestRenderer.html",
+          "hash": "VQQUy2pLoeTJY8STrbDvIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Rendering.RenderEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Rendering.RenderEvent.html",
+          "hash": "P/cQBgEUowo8yaHmbpVc9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Rendering.RenderTreeFrameCollection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Rendering.RenderTreeFrameCollection.html",
+          "hash": "ZaW8VP3gupejsbLTfds/Ww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Rendering.RenderedComponentActivator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Rendering.RenderedComponentActivator.html",
+          "hash": "tBuMbGSe8PEeDy3Gbj2zkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Rendering.RootRenderTree.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Rendering.RootRenderTree.html",
+          "hash": "3SdvL9f96VMWBw5vW48ENg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Rendering.RootRenderTreeRegistration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Rendering.RootRenderTreeRegistration.html",
+          "hash": "N8mYLS1pliX7RvrbkzNyDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Rendering.TestComponentRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Rendering.TestComponentRenderer.html",
+          "hash": "Qnz8fxGOjRYXgiP0vHLQOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Rendering.TestRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Rendering.TestRenderer.html",
+          "hash": "NoiLByjf+xcLqH715R8jSQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Rendering.WebTestRenderer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Rendering.WebTestRenderer.html",
+          "hash": "UCrsi1wD4Y9X15f6HqdDYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Rendering.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Rendering.html",
+          "hash": "bQjTmXGacSJ4pYFXhiEDfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.ShouldBeAdditionAssertExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.ShouldBeAdditionAssertExtensions.html",
+          "hash": "09s608YBjLtT8yYg9BRmTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.ShouldBeRemovalAssertExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.ShouldBeRemovalAssertExtensions.html",
+          "hash": "7jenCXcxgkh5pv8YKGraFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.ShouldBeTextChangeAssertExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.ShouldBeTextChangeAssertExtensions.html",
+          "hash": "zNcWyLVygeguU1e92EFMsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.SnapshotTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.SnapshotTest.html",
+          "hash": "hVT46zV3sk4xCuHQULpOOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestComponentBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestComponentBase.html",
+          "hash": "GAhbYkQqQZN9e6/tdXSz1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestContext.html",
+          "hash": "A8vqxnKd5cUGRTvUoGfLcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestContextBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestContextBase.html",
+          "hash": "LK+eLCVBCYNwz2Hky6BF/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestDoubles.AuthorizationState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestDoubles.AuthorizationState.html",
+          "hash": "OvBgdXUEoaSbZc6gG0mxRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestDoubles.FakeAuthenticationStateProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestDoubles.FakeAuthenticationStateProvider.html",
+          "hash": "tBG2F3fz0c6c0bmtluVyfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestDoubles.FakeAuthorizationExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestDoubles.FakeAuthorizationExtensions.html",
+          "hash": "11dTH84YQet/5DxpAR4zhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestDoubles.FakeAuthorizationPolicyProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestDoubles.FakeAuthorizationPolicyProvider.html",
+          "hash": "GJVFeJxnnDZq07IhkLzEOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestDoubles.FakeAuthorizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestDoubles.FakeAuthorizationService.html",
+          "hash": "KmHoGP1hhCLEl3GBmdPI3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestDoubles.MissingFakeAuthorizationException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestDoubles.MissingFakeAuthorizationException.html",
+          "hash": "wcFEtnhGFKJXs45CsU0hZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestDoubles.MissingMockHttpClientException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestDoubles.MissingMockHttpClientException.html",
+          "hash": "gLcTpPxkMFHfPvDSJsan/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestDoubles.MissingMockNavigationManagerException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestDoubles.MissingMockNavigationManagerException.html",
+          "hash": "7wf2toJxiEH3O7BfwerraA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestDoubles.MissingMockStringLocalizationException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestDoubles.MissingMockStringLocalizationException.html",
+          "hash": "gEPPklA5+n6wpNj1a5yojw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestDoubles.TestAuthorizationContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestDoubles.TestAuthorizationContext.html",
+          "hash": "x/cd3NmanFdRq3GuTWenUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestDoubles.TestPolicyRequirement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestDoubles.TestPolicyRequirement.html",
+          "hash": "fBlo6jWNaJZj40EO8t+q9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestDoubles.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestDoubles.html",
+          "hash": "LwD1r7NzSePcaO/PiyK3ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TestServiceProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TestServiceProvider.html",
+          "hash": "0Vm3p6gyhGvUBHRG59Lifg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TouchEventDispatchExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TouchEventDispatchExtensions.html",
+          "hash": "WXAX7O3phC//Ttj/0IpGnw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.TriggerEventDispatchExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.TriggerEventDispatchExtensions.html",
+          "hash": "hTvnObs5pb4XkbH4CmTO8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Xunit.Logging.XunitLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Xunit.Logging.XunitLogger.html",
+          "hash": "8bvOTwmoiW7pzlR2HRWoNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Xunit.Logging.XunitLoggerFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Xunit.Logging.XunitLoggerFactory.html",
+          "hash": "WannuGqYaJJjxAkrNFAPSQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Xunit.Logging.XunitLoggerProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Xunit.Logging.XunitLoggerProvider.html",
+          "hash": "uIbyv6c9CaOPqewvnIrWZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.Xunit.Logging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.Xunit.Logging.html",
+          "hash": "3zvfstnhBsvbwC2ht3nhSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.XunitLoggerExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.XunitLoggerExtensions.html",
+          "hash": "g5bDbqr01DVtJcznHw3jGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bunit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bunit.html",
+          "hash": "yGH77BA9jffTTMqqQAtO9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Xunit.RazorTestAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Xunit.RazorTestAttribute.html",
+          "hash": "4md0AbCF3FZCInSjHGFqIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Xunit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Xunit.html",
+          "hash": "VofUM/DOXIfsPmQ2B0bkBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "xPQCJe546CpdFnABf5MAlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "apple-touch-icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "apple-touch-icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/code-of-conduct.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/code-of-conduct.html",
+          "hash": "QHAlGxcCuQTRMMQwe6Wgkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/contribute.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/contribute.html",
+          "hash": "e757BSJyZK5f2To0g3hbow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/external-resources.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/external-resources.html",
+          "hash": "ieF6OfMwR0qJlfVNtzNeOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started/create-test-project.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started/create-test-project.html",
+          "hash": "yQy/C4OI7rKM1luSDaV34g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started/fixture-details.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started/fixture-details.html",
+          "hash": "kD/qtxNxjsLeMW+chQAA+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started/index.html",
+          "hash": "AOCv5k6fFmblyhvJPdmsRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started/snapshottest-details.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started/snapshottest-details.html",
+          "hash": "5vBU2wql/b5stGi4ycK/vQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started/writing-csharp-tests.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started/writing-csharp-tests.html",
+          "hash": "CxYwugf5mTJeJyob4kczOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started/writing-razor-tests.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started/writing-razor-tests.html",
+          "hash": "uD5sdavsu5iRrt9u4kqA+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "docs/interaction/awaiting-async-state.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/interaction/awaiting-async-state.html",
+          "hash": "WVI9OWKRh67+yT1fEWRuzw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/interaction/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/interaction/index.html",
+          "hash": "35PD9cUndWaPl4NSUgSSeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/interaction/trigger-event-handlers.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/interaction/trigger-event-handlers.html",
+          "hash": "D2NhJY3OBQALxlvR+i/qJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/interaction/trigger-renders.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/interaction/trigger-renders.html",
+          "hash": "gck3TV4N2XbB5kmzJtbqJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/misc-test-tips.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/misc-test-tips.html",
+          "hash": "tBWg9IJIjV/XPf9GrS2H1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/providing-input/configure-3rd-party-libs.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/providing-input/configure-3rd-party-libs.html",
+          "hash": "SLShB+mRYEHgCM5T/4xKjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/providing-input/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/providing-input/index.html",
+          "hash": "COs3bS2yNX3k1rNHowh8HQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/providing-input/inject-services-into-components.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/providing-input/inject-services-into-components.html",
+          "hash": "Ot06nlYTAhTn7s7ga01CQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/providing-input/passing-parameters-to-components.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/providing-input/passing-parameters-to-components.html",
+          "hash": "aoTVD05kycM5D7xiXHQ/7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "docs/providing-input/root-render-tree.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/providing-input/root-render-tree.html",
+          "hash": "sHPZgvXStxDe9Lc8XHsUgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/test-doubles/emulating-ijsruntime.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/test-doubles/emulating-ijsruntime.html",
+          "hash": "rBHqskL9hlg6+LGZ8uG4zQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "docs/test-doubles/faking-auth.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/test-doubles/faking-auth.html",
+          "hash": "vGqF2/YuThdJVb16E5qhUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/test-doubles/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/test-doubles/index.html",
+          "hash": "+CvaBef7ej8/mnQCuQ+p+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/test-doubles/mocking-httpclient.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/test-doubles/mocking-httpclient.html",
+          "hash": "dMypTuNjulsHE33A7T8sXA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/test-doubles/mocking-localizer.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/test-doubles/mocking-localizer.html",
+          "hash": "3PCFDxG+q+RN93xm1WjsEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/test-doubles/mocking-navigation-manager.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/test-doubles/mocking-navigation-manager.html",
+          "hash": "/c1usTU4J77U7CrGi1AP4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html",
+          "hash": "FraGGHGk0xz9OqADpYUvxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "docs/verification/async-assertion.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/verification/async-assertion.html",
+          "hash": "1x0SZ310pOnCHIULcrRu4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/verification/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/verification/index.html",
+          "hash": "jTwLz8B4Ly2DMd+liFF3oA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/verification/semantic-html-comparison.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/verification/semantic-html-comparison.html",
+          "hash": "rDIyF7OMhOM13wDH5lIDSQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "docs/verification/verify-component-state.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/verification/verify-component-state.html",
+          "hash": "yUT+czIldDZeIT3j2g9dLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/verification/verify-markup.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/verification/verify-markup.html",
+          "hash": "eLOS/hWxGSco6vhINMb6JA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "favicon-16x16.png",
+      "output": {
+        "resource": {
+          "relative_path": "favicon-16x16.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "favicon-32x32.png",
+      "output": {
+        "resource": {
+          "relative_path": "favicon-32x32.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/blazor-logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/blazor-logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/github-logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/github-logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/rendered-fragment-diagram.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/rendered-fragment-diagram.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/test-context-rendered-fragment-diagram.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/test-context-rendered-fragment-diagram.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/testcontext-diagram.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/testcontext-diagram.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "Utm7YTSaeAhO3YXTSAZ0xw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "mstile-150x150.png",
+      "output": {
+        "resource": {
+          "relative_path": "mstile-150x150.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "site.webmanifest",
+      "output": {
+        "resource": {
+          "relative_path": "site.webmanifest"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "sponsors/packt-retina-logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "sponsors/packt-retina-logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "sponsors/progress-blazor-300x250.png",
+      "output": {
+        "resource": {
+          "relative_path": "sponsors/progress-blazor-300x250.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "sponsors/telerik-ad-github.svg",
+      "output": {
+        "resource": {
+          "relative_path": "sponsors/telerik-ad-github.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "sponsors/telerik-ad-site.svg",
+      "output": {
+        "resource": {
+          "relative_path": "sponsors/telerik-ad-site.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "Fq+ddCZHoVlZf78nhaIZ3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 31,
+          "skipped_file_count": 31
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 120,
+          "skipped_file_count": 51
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
